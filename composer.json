@@ -1,10 +1,10 @@
 {
-    "name": "acquia/blt-project",
+    "name": "acquia-pso/scenario",
     "type": "project",
     "description": "Project template for Drupal 8 sites built with BLT.",
     "license": "GPL-2.0-only",
     "require": {
-        "php": ">=7.1",
+        "php": ">=7.3",
         "acquia/blt": "^10.3.1",
         "acquia/drupal-spec-tool": "*",
         "acquia/lightning": "^4.0.0",
@@ -26,7 +26,7 @@
     },
     "config": {
         "platform": {
-            "php": "7.2"
+            "php": "7.3"
         },
         "sort-packages": true
     },

@@ -1,23 +1,6 @@
-# My Project
+# Scenario Project
 
-A brief description of My Project.
-
-## Using This Template
-
-Remove this section after initial setup!
-
-Search for and replace the following placeholders within this file:
-
-| Placeholder | Example |
-| --- | --- |
-| `#ACQUIA_CLOUD_URL` | https://cloud.acquia.com/app/develop/applications/12345678-1234-1234-12345678901234567 |
-| `#GIT_PRIMARY_DEV_BRANCH` | `master` or `develop` |
-| `#GITHUB_ORG` | The "org" in https://github.com/org/project |
-| `#GITHUB_PROJECT` | The "project" in https://github.com/org/project |
-| `#JIRA_URL` | https://org.atlassian.net/projects/PROJ |
-| `#LOCAL_DEV_SITE_ALIAS` | `@example.local` |
-| `#LOCAL_DEV_URL` | http://local.example.com/ |
-| `#TRAVIS_URL` | https://travis-ci.com/org/PROJ |
+This project is to be used in development scenarios.
 
 # Getting Started
 
@@ -139,10 +122,3 @@ BLT uses a number of configuration (`.yml` or `.json`) files to define and custo
 * `box/config.yml` (if using Drupal VM)
 * `drush/sites` (contains Drush aliases for this project)
 * `composer.json` (includes required components, including Drupal Modules, for this project)
-
-## Resources
-
-* JIRA - #JIRA_URL
-* GitHub - https://github.com/#GITHUB_ORG/#GITHUB_PROJECT
-* Acquia Cloud subscription - #ACQUIA_CLOUD_URL
-* TravisCI - #TRAVIS_URL
