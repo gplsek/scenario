@@ -1,0 +1,6 @@
+local:
+    root: /var/www/scenario/docroot
+    uri: 'http://local.scenario.com'
+    host: local.scenario.com
+    user: vagrant
+    ssh: { options: '-o StrictHostKeyChecking=no -o PasswordAuthentication=no -i $HOME/.vagrant.d/insecure_private_key' }
