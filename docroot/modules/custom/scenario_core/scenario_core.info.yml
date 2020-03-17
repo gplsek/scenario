@@ -2,3 +2,6 @@ name: Scenario Core
 type: module
 description: A module for Acquia PS interviews
 core_version_requirement: ^8.8 || ^9
+
+dependencies:
+- key:key
