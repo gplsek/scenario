@@ -39,7 +39,7 @@ class ScenarioController extends ControllerBase {
    */
   public function access(AccountInterface $account) {
 
-    return (($this->getEnv() == 'develop') || $this->getRole($account)) ? AccessResult::allowed() : AccessResult::forbidden();
+    return (($this->getEnv() == 'develop') || ($this->getRole($account))) ? AccessResult::allowed() : AccessResult::forbidden();
   }
 
 }
