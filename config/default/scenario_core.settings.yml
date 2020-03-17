@@ -1,0 +1,9 @@
+scenario_ecom: 1
+elastic_path_api_key: wewwewewdsdsd
+elastic_path_secret: elastic_path_
+elastic_path_endpoint: 'http://www.cnn.com'
+submit: 'Save configuration'
+form_build_id: form-erWybODYFB2za45tWeMUDJ6-VrBjTQs9sc49Zr-t-lM
+form_token: 6LVMwnNxu7BUNqjxvBOpo-J-GJuxkr6SmI5OYzR8pL0
+form_id: scenario_core_settings_form
+op: 'Save configuration'

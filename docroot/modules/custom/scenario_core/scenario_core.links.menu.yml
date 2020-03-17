@@ -1,0 +1,6 @@
+scenario_core.settings:
+  title: 'Scenario Settings'
+  description: 'Manage Scenario settings'
+  parent: system.admin
+  route_name: scenario_core.settings
+  weight: 100

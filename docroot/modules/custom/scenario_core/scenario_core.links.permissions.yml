@@ -1,0 +1,3 @@
+administer scenario:
+  title: 'Administer Scenario'
+  description: 'Can configure Scenario settings'

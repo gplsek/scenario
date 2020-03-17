@@ -1,0 +1,7 @@
+scenario_core.settings:
+  path: '/admin/scenario'
+  defaults:
+    _form: '\Drupal\scenario_core\Form\ConfigForm'
+    _title: 'Scenario Core Settings'
+  requirements:
+    _custom_access: 'Drupal\scenario_core\Controller\ScenarioController::access'
